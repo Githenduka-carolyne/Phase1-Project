@@ -45,3 +45,6 @@ Given no prior aviation experience, the goal is to identify **lowest-risk aircra
 ## Future Work
 - Include maintenance and cost data
 - Model probabilistic risk
+
+## Tableau Visualization link
+[Tableau link](https://public.tableau.com/authoring/AirplaneRiskAnalysis/Dashboard1) 
