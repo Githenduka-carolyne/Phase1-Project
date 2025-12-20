@@ -27,10 +27,20 @@ Given no prior aviation experience, the goal is to identify **lowest-risk aircra
 
 ## Key Findings
 - General aviation airplanes (e.g. Cessna 152, Cessna 172 variants) show consistently low risk
+![alt text](image1.png)
 - Large commercial jets show high weighted risk due to severe outcomes when accidents occur
+![alt text](image2.png)
 - Substantial and destroyed damage dominate incidents
+![alt text](image3.png)
 - Fatal and non-fatal injuries account for most outcomes
+![alt text](image4.png)
 - Amateur-built airplanes show lower damage frequency
+![alt text](image7.png)
+- no of damage vs damage type
+![alt text](image6.png)
+- injury severity vs no of engine
+![alt text](image5.png)
+
 
 ## Recommendations
 - Prioritize small general aviation airplanes for initial market entry
